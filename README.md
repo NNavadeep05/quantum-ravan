@@ -4,4 +4,4 @@ Exploring federated learning, quantum transformers, and RAVAN-inspired aggregati
 
 
 
-Supervisor: Prof. Shiva Pokhrel (Deakin University)
+Supervisor: Prof. Shiva Pokhrel 
